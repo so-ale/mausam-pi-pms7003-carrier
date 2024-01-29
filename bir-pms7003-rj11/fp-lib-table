@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "indian-rj11-pcb-through-hole-2.54")(type "KiCad")(uri "/home/anish/Documents/indian-rj11/indian-rj11-pcb-through-hole-2.54.pretty")(options "")(descr ""))
+)
